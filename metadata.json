@@ -1,0 +1,6 @@
+{
+  "name": "Umang AI",
+  "description": "Superpowered voice assistant created by Umang Rai with device control, hands-free wake word, WhatsApp automation, split-screen multitasking, and Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
